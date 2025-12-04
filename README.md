@@ -25,3 +25,10 @@ npm install react-native-gesture-handler react-native-reanimated react-native-wo
 ```
 
 **OBS:** in the command inserted by the teacher, he did not installled the package "react-native-worklets", but I got the command I passed above [from the updated manual](https://reactnavigation.org/docs/drawer-navigator/?framework=expo#installation)
+
+
+# Finishing the installation
+
+To finish the installation teacher said that we must do an import in index.js or App.js (in a demo project I saw only the files index.tsx and App.tsx):
+
+![]
