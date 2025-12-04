@@ -41,3 +41,8 @@ Teacher did this in App.tsx:
 # Creating the file routes/drawer.routes.tsx
 
 As teacher did with other types of navigations, teacher created the file routes/drawer.routes.tsx.
+
+Examples related to other types of navigations:
+
+- routes/botton-tabs.routes.tsx
+- routes/stack.routes.tsx
