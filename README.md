@@ -14,8 +14,7 @@ npm install @react-navigation/drawer
 
 Para um projeto "Bare", sem o Expo:
 
-
 In a project with Expo:
 ```
-npm install react-native-gesture-handler react-native-reanimated react-native-worklets
-```
+npx expo install react-native-gesture-handler react-native-reanimated react-native-worklets
+``````
