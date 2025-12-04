@@ -1,6 +1,6 @@
 # Initial demo
 
-![initial demo](demo-drawer-navigation.png)
+![initial demo](images/demo-drawer-navigation.png)
 
 
 # Installation
