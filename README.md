@@ -36,3 +36,8 @@ To finish the installation teacher said that we must do an import in index.js or
 Teacher did this in App.tsx:
 
 ![importing in App.tsx](images/importing-in-App-tsx.png)
+
+
+# Creating the file routes/drawer.routes.tsx
+
+As teacher did with other types of navigations, teacher created the file routes/drawer.routes.tsx.
