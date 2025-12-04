@@ -8,3 +8,12 @@
 ```
 npm install @react-navigation/drawer
 ```
+
+
+# Installation of extra packages
+
+Para um projeto "Bare", sem o Expo:
+
+```
+npm install react-native-gesture-handler react-native-reanimated react-native-worklets
+```
