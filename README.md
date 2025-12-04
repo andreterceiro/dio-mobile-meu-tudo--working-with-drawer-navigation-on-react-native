@@ -32,3 +32,7 @@ npm install react-native-gesture-handler react-native-reanimated react-native-wo
 To finish the installation teacher said that we must do an import in index.js or App.js (in a demo project I saw only the files index.tsx and App.tsx):
 
 ![importing in index js or app js](images/importing-in-index-js-or-app-js.png)
+
+Teacher did this in App.tsx:
+
+![importing in App.tsx](images/importing-in-App-tsx.png)
