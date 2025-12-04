@@ -17,4 +17,9 @@ Para um projeto "Bare", sem o Expo:
 In a project with Expo:
 ```
 npx expo install react-native-gesture-handler react-native-reanimated react-native-worklets
-``````
+```
+
+In a project without Expo:
+```
+npm install react-native-gesture-handler react-native-reanimated react-native-worklets
+```
