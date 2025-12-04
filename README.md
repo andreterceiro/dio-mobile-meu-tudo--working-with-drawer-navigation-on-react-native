@@ -23,3 +23,5 @@ In a project without Expo:
 ```
 npm install react-native-gesture-handler react-native-reanimated react-native-worklets
 ```
+
+**OBS:** in the command inserted by the teacher, he did not installled the package "react-native-worklets", but I got the command I passed above [from the updated manual](https://reactnavigation.org/docs/drawer-navigator/?framework=expo#installation)
