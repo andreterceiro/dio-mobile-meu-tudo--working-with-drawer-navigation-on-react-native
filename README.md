@@ -96,9 +96,9 @@ npx expo start ---clear
 ```
 
 
+# Final hints of the teacher
 
-
-
+- The drawer navigation is interesting when you use a lot of options;
 
 
 # Repository related to the classes
