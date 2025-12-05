@@ -66,3 +66,5 @@ But teacher said that we only need to follow the manual instructions.
 See how he pointed to the screens in the file drawer.routes.tsx:
 
 ![drawer.routes.tsx](images/drawer-routes-tsx.png)
+
+Also, he already made the screen files.
