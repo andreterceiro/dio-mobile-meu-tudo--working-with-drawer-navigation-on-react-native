@@ -100,6 +100,7 @@ npx expo start ---clear
 
 - The drawer navigation is interesting when you use a lot of menu entries;
 - You can personalize using the options;
+- The use is intuitive to the user;
 
 
 # Repository related to the classes
