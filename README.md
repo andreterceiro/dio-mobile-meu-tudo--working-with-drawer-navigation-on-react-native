@@ -81,4 +81,6 @@ See in [this file](https://github.com/andreterceiro/dio-mobile-meu-tudo--working
 
 ![src/routes/index.tsx from the stack routes project](images/routes-index-tsx--stack-routes-project.png)
 
-After, in the file **babel.config.js** from the src directory, he pointed to a plugin.
+After, in the file **babel.config.js** from the src directory, he pointed to a plugin:
+
+![pointing to a plugin in babel.config.js file](images/pointing-to-a-plugin-in-babel-config-js-file.png)
