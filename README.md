@@ -88,3 +88,9 @@ After, in the file **babel.config.js** from the src directory, he pointed to a p
 In the error showed in the console before the fix he showed us that we can access a documentation link:
 
 ![error -- documentation link](images/error--documentation-link.png)
+
+To finish, to run the application teacher used this command:
+
+```
+npx expo start ---clear
+```
