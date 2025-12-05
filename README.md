@@ -105,6 +105,8 @@ npx expo start ---clear
 - This type of navigation tend to be the app more clear, less polluted;
 - You can also open the drawer menu programatically, the user no need to click in the hamburguer menu.
 
+![opening-or closing the drawer programmatically](images/opening-or-closing-the-drawer-programmatically.png)
+
 
 # Repository related to the classes
 
