@@ -63,3 +63,5 @@ Teacher said that we can use this code available in the documentation, but he pr
 1. Install drawer;
 2. With the words of the teacher, install that tow libraries and import in the file App.tsx the gestures library ("react-native-gestures-handler");
 3. Insert in the return object: plugins: 'react-native-reanimated/plugin'.
+
+But teacher said that we only need to folloew the manual instructions.
