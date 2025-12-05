@@ -103,6 +103,7 @@ npx expo start ---clear
 - The use is intuitive to the user;
 - You can have also golden actions in a bottom bar in the application;
 - This type of navigation tend to be the app more clear, less polluted;
+- You can also open the drawer menu programatically, the user no need to click in the hamburguer menu.
 
 
 # Repository related to the classes
