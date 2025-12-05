@@ -78,3 +78,5 @@ Now in **src/routes/index.tsx** he used the component "**DrawerRoutes**:
 ![src/routes/index.tsx](images/routes-index-tsx.png)
 
 See in [this file](https://github.com/andreterceiro/dio-mobile-meu-tudo--working-with-stack-navigation-in-react-native/blob/master/tests/01/react-nav/src/routes/index.tsx) that this similar to what we did in the test project using stack routes.
+
+![src/routes/index.tsx from the stack routes project](images/routes-index-tsx--stack-routes-project.png)
