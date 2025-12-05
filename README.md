@@ -72,3 +72,5 @@ From [this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--wor
 ![stack.routes.tsx](images/stack-routes-tsx.png)
 
 Also, he already made the screen files. From [the repository I mentioned above](https://github.com/andreterceiro/dio-mobile-meu-tudo--working-with-stack-navigation-in-react-native) you can [access the screen files](https://github.com/andreterceiro/dio-mobile-meu-tudo--working-with-stack-navigation-in-react-native/tree/master/tests/01/react-nav/src/screens).
+
+Now in **src/routes/index.tsx** he used the component "**DrawerRoutes**.
