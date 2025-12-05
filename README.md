@@ -94,3 +94,13 @@ To finish, to run the application teacher used this command:
 ```
 npx expo start ---clear
 ```
+
+
+
+
+
+
+
+# Repository related to the classes
+
+[link](https://github.com/digitalinnovationone/trilha-react-native-navigation-drawer)
