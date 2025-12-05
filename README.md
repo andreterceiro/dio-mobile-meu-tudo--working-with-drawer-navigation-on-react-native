@@ -104,3 +104,8 @@ npx expo start ---clear
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-navigation-drawer)
+
+
+# Documentation related to the classes
+
+[link](https://reactnavigation.org/docs/drawer-based-navigation)
