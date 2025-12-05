@@ -84,3 +84,5 @@ See in [this file](https://github.com/andreterceiro/dio-mobile-meu-tudo--working
 After, in the file **babel.config.js** from the src directory, he pointed to a plugin:
 
 ![pointing to a plugin in babel.config.js file](images/pointing-to-a-plugin-in-babel-config-js-file.png)
+
+In the error showed in the console before the fix he showed us that we can access a documentation link.
