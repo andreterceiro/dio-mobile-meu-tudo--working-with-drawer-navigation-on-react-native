@@ -102,6 +102,7 @@ npx expo start ---clear
 - You can personalize using the options;
 - The use is intuitive to the user;
 - You can have also golden actions in a bottom bar in the application;
+- This type of navigation tend to be the app more clear, less polluted;
 
 
 # Repository related to the classes
