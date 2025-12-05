@@ -46,3 +46,10 @@ Examples related to other types of navigations:
 
 - routes/botton-tabs.routes.tsx
 - routes/stack.routes.tsx
+
+
+# Structuring the code to work with drawer navigation
+
+Teacher said that we can use this code available in the documentation, but he prefers to do a little different, desestructuring a object as example:
+
+![documentation code](images/documentation-code-01.png)
