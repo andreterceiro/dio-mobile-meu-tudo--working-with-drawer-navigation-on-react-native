@@ -85,4 +85,6 @@ After, in the file **babel.config.js** from the src directory, he pointed to a p
 
 ![pointing to a plugin in babel.config.js file](images/pointing-to-a-plugin-in-babel-config-js-file.png)
 
-In the error showed in the console before the fix he showed us that we can access a documentation link.
+In the error showed in the console before the fix he showed us that we can access a documentation link:
+
+![error -- documentation link](images/error--documentation-link.png)
