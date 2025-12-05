@@ -62,3 +62,7 @@ Teacher said that we can use this code available in the documentation, but he pr
 3. Insert in the file babel.config.js return object: plugins: 'react-native-reanimated/plugin'.
 
 But teacher said that we only need to follow the manual instructions.
+
+See how he pointed to the screens in the file drawer.routes.tsx:
+
+![drawer.routes.tsx](images/drawer-routes-tsx.png)
