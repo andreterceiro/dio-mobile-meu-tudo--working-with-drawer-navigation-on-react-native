@@ -67,6 +67,8 @@ See how he pointed to the screens in the file drawer.routes.tsx:
 
 ![drawer.routes.tsx](images/drawer-routes-tsx.png)
 
-From [this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--working-with-stack-navigation-in-react-native) you can see how this file is similar to stack.routes.tsx.
+From [this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--working-with-stack-navigation-in-react-native) you can see how this file is similar to stack.routes.tsx:
+
+![stack.routes.tsx](images/stack-routes-tsx.png)
 
 Also, he already made the screen files.
