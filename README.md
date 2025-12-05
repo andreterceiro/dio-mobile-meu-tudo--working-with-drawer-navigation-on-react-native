@@ -53,3 +53,11 @@ Examples related to other types of navigations:
 Teacher said that we can use this code available in the documentation, but he prefers to do a little different, desestructuring a object as example:
 
 ![documentation code](images/documentation-code-01.png)
+
+
+
+
+
+# Summary of steps passed by the teacher
+
+1. Install drawer;
